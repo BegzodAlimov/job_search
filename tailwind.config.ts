@@ -54,7 +54,9 @@ const config = {
         },
         success: "#00C566",
         error:"#FF4747",
-        warning:"#FACC15"
+        warning:"#FACC15",
+        "grayscale-40":"#AEAEB2",
+        "input_color":"#A2A1A7"
       },
       borderRadius: {
         lg: "var(--radius)",

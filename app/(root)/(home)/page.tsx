@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="container bg-[#F9F9FB]">
+    <div className="container">
       <Header/>
     </div>
   );

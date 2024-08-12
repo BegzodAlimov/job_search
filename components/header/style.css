@@ -3,3 +3,7 @@ header{
     background-repeat: no-repeat;
     background-position: right top;
 }
+.tabs{
+    background: linear-gradient(265.67deg, rgba(249, 249, 251, 0.56) -3.26%, #F9F9FB 50.21%);
+    box-shadow: 32px 64px 64px 0px #9E969614;
+}
